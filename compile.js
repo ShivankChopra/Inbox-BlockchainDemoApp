@@ -1,4 +1,4 @@
-// script to compile our solidity conttract
+// script to compile our solidity contract
 
 // Node's system modules to generate path and read files using them
 const path = require('path');
